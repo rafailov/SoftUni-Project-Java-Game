@@ -39,7 +39,7 @@ public static void main(String[] args) {
 			String s = Integer.toString(score);
 			
 			/*
-			 * this if is true only when you moved on next level
+			 * this  is true only when you moved on next level
 			 * After you are in next level this variable is false
 			 * here is text for next level
 			 * example: GOD.. Level 2
